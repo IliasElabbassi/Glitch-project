@@ -1,15 +1,14 @@
 # Glitch-project
 
 
-- ajouter un dossier: ./video
-- ajouter une video dans se dossier
-- changer le nom du fichier dans la ligne 8 de index.html
-
+- add a video folder inside the project: ./video
+- add a video
+- change the name of the loaded video in line 8 for index.html
 
 # Exucution
 
-Vous devez lancer un server local.
+You need to run a local server.
 
-Exemple en python
-- cd <repo content le index.html>
+Example in python
+- cd <into the repo whre index.html is located>
 - python3 -m http.server
